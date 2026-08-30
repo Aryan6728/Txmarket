@@ -56,7 +56,7 @@ Render free tier sleeps after 15 min idle — keep a cron ping on `/health`
 (e.g. cron-job.org every 10 min) so live streams and the keeper stay up.
 `SEED_LIQUIDITY_USDC` controls how much USDC each new market pulls from the
 keeper wallet; `WC_COMPETITION_ID` (default 72) merges the full World Cup
-fixture list into the schedule.
+fixture list into the schedule
 
 ## TxLINE endpoints used (for submission docs)
 
