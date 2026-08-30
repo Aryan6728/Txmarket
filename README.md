@@ -118,3 +118,5 @@ cd web && npm i && cp .env.local.example .env.local && npm run dev
 ## Compliance note
 Devnet demonstration only. No real funds, no fiat on/off ramp. Built for the TxODDS
 World Cup Hackathon under its T&C;
+
+by Mahesh Vishwakarma 
