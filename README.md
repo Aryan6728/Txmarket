@@ -78,7 +78,7 @@ fixture list into the schedule
 ```bash
 solana config set --url devnet
 solana airdrop 2
-# devnet USDC for seeding/testing: https://faucet.circle.com (Solana devnet)
+# devnet USDC for seeding/testing: https://faucet.circle.com (Solana devnet)...
 ```
 
 ### 1. Program
